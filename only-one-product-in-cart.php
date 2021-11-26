@@ -23,7 +23,7 @@ function load_plugin() {
 
 function failed_load_plugin() {
     load_plugin_textdomain( 'only-one-product' );
-    $message = '<p>' . __( 'Woocommerce not activated, please activate Woocommer Plugin before install this plugin', 'only-one-product' ) . '</p>';
+    $message = '<p>' . __( 'Woocommerce not activated, please activate Woocommerce Plugin', 'only-one-product' ) . '</p>';
 
     echo '<div class="error"><p>' . $message . '</p></div>';
 }
