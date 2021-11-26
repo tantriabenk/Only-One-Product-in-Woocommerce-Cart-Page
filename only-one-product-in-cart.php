@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Only 1 Product in Woocommerce Cart
-* Plugin URI: -
+* Plugin URI: https://github.com/tantriabenk/only-one-product-in-woocommerce-cart-page
 * Description: Allow only one product in Woocommerce Cart Page
 * Version: 1.0
 * Author: Tantri Mindrawan
