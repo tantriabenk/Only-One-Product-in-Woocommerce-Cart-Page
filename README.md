@@ -1,4 +1,4 @@
-# only-one-product-in-woocommerce-cart-page
+# Allow Only One Product in Woocommerce Cart Page (WordPress Plugin)
 Installation
 - Download this plugin
 - Upload only-one-product-in-cart folder to the /wp-content/plugins/ directory.
